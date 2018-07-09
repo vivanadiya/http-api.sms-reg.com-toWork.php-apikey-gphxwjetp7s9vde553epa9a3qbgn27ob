@@ -1,0 +1,1 @@
+# http-api.sms-reg.com-toWork.php-apikey-gphxwjetp7s9vde553epa9a3qbgn27ob
